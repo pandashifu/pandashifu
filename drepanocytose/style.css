@@ -1,0 +1,152 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text:ital@0;1&family=Dancing+Script:wght@400..700&family=Monsieur+La+Doulaise&display=swap');
+
+@font-face {
+    font-family: "DMSerif";
+    src: url(./assets/fonts/DMSerifText-Regular.ttf);
+}
+
+body {
+    background: url(./img/globules_rouges.jpg) center/cover;
+    min-height: 100vh;
+    font-size: 1.2rem;
+}
+
+
+h1 {
+    font-family: "Monsieur La Doulaise", serif;
+    text-align: center;
+    font-size: 3rem;
+    text-decoration: underline;
+    letter-spacing: 3px ;
+    text-shadow:7px 5px 8px #00000078;
+
+}
+
+main {
+    min-height: 500px;
+    width: 90%;
+    background: rgba(255, 255, 255, 0.521);
+    margin:0 auto;
+    border: 2px solid rgb(15, 1, 1);
+    border-radius: 20px;
+    box-shadow: 1px 1px 12px 8px #060101af;
+    padding: 15px;
+
+}
+
+
+
+h2{
+    margin: 0;
+}
+
+.first h2 {
+    width: 100%;
+    margin-top: 20px;
+    display: block;
+}
+
+.first {
+    border: 2px solid rgba(145, 3, 3, 0);
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 20px;
+    min-height: 150px;
+
+    
+}
+
+
+   
+
+.null {
+    border: 2px solid rgba(145, 3, 3, 0);
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 20px;
+    min-height: 150px;
+}
+
+
+
+.second {
+    border: 2px solid rgba(145, 3, 3, 0);
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 20px;
+    min-height: 150px;
+}
+
+
+.forth {
+    border: 2px solid rgba(145, 3, 3, 0);
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 20px;
+    min-height: 150px;
+}
+
+.fifth {
+    border: 2px solid rgba(145, 3, 3, 0);
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 20px;
+    min-height: 250px;
+}
+
+table{
+    min-height: 150px;
+    /* margin-left: 0px; */
+}
+
+
+.sixth {
+    border: 2px solid rgba(145, 3, 3, 0);
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 20px;
+    min-height: 150px;
+}
+
+
+.seventh {
+    border: 2px solid rgba(145, 3, 3, 0);
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 20px;
+    min-height: 150px;
+}
+
+.eighth {
+    border: 2px solid rgba(145, 3, 3, 0);
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 20px;
+    min-height: 150px;
+}
+
+.ninth {
+    border: 2px solid rgba(145, 3, 3, 0);
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 20px;
+    min-height: 150px;
+}
+
+.pluss {
+    border: 2px solid rgba(145, 3, 3, 0);
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 20px;
+    min-height: 150px;
+}
+
+footer {
+    margin-left: 65%;
+    font-style: italic;
+    font-size: 1.6rem;
+}
+
+#foot {
+    color: black;
+}
